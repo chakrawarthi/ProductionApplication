@@ -1,0 +1,19 @@
+current directory: /home/chakravarthi/Desktop/ProductionApplication/vendor/bundle/ruby/3.2.0/gems/debug-1.11.1/ext/debug
+/home/chakravarthi/.rvm/rubies/ruby-3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/chakravarthi/Desktop/ProductionApplication/vendor/bundle/ruby/3.2.0/gems/debug-1.11.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20260228-32487-xpp4ar sitelibdir\=./.gem.20260228-32487-xpp4ar clean
+
+current directory: /home/chakravarthi/Desktop/ProductionApplication/vendor/bundle/ruby/3.2.0/gems/debug-1.11.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20260228-32487-xpp4ar sitelibdir\=./.gem.20260228-32487-xpp4ar
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/chakravarthi/Desktop/ProductionApplication/vendor/bundle/ruby/3.2.0/gems/debug-1.11.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20260228-32487-xpp4ar sitelibdir\=./.gem.20260228-32487-xpp4ar install
+/usr/bin/install -m 0755 debug.so ./.gem.20260228-32487-xpp4ar/debug
+
+current directory: /home/chakravarthi/Desktop/ProductionApplication/vendor/bundle/ruby/3.2.0/gems/debug-1.11.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20260228-32487-xpp4ar sitelibdir\=./.gem.20260228-32487-xpp4ar clean
